@@ -14,7 +14,7 @@ deliverables: browse and view files on your system
 
 Asciinema : https://asciinema.org/a/l51bp80lBqqRzIjGdJFvOrJb3
 
-A: Ενδιάμεση αναφορά
+A: Ενδιάμεση αναφορά 
 
 Παραδοτέο :  πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
 
